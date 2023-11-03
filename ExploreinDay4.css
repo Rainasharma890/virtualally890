@@ -1,0 +1,73 @@
+h2{
+    color:red
+}
+.myYoutube-header{
+    display: flex;
+    height: 40px;
+    width:100%;
+    background-color:white;
+    justify-content:space-between;
+    border-bottom:solid;
+}
+.header-item1{
+display:flex;
+
+}
+
+.sub-header1{
+    height:30px;
+    width:30px;
+    margin: 5px;
+    background-color: grey;
+}
+
+.sub-header2{
+    height:30px;
+    width:60px;
+    margin:5px;
+    background-color:grey;
+    (218, 140, 140);
+}
+.header-item2{
+    display:flex;
+}
+.sub-header3{
+    height:30px;
+    width:450px;
+    background-color:grey;
+    margin:5px;
+    border-radius:20px;
+}
+.sub-header4{
+    height:30px;
+    width:30px;
+    background-color:grey;
+    margin:5px;
+    border-radius:50%;
+}
+.header-item3{
+    display:flex;
+}
+.sub-header5{
+    height:30px;
+    width:75px;
+    background-color:grey;
+    margin:5px;
+    border-radius:20px;
+}
+#ytvideos{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    border-left:solid;
+    width:auto;
+    height:100vh;
+    align-items:center;
+    margin-left:4%;
+
+}
+.a{
+    height: 25%;
+    width: 30%;
+    background-color:grey;
+}
